@@ -2,6 +2,8 @@
 
 This repository is used for the CI/CD module of the Full Stack Open course
 
+The application is deployed at https://fs-pokedex-part11.fly.dev/
+
 ## Commands
 
 Start by running `npm install` inside the project folder
