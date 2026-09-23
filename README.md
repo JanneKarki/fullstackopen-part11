@@ -7,8 +7,6 @@ The application is deployed at https://fs-pokedex-part11.fly.dev/
 Exercise 11.21 is in a separate repository:
 https://github.com/JanneKarki/fullstackopen-part11-app
 
-That application is deployed at https://fullstackopen-part11-app.fly.dev/
-
 ## Commands
 
 Start by running `npm install` inside the project folder
